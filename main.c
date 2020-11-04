@@ -18,6 +18,7 @@ int main(int ac, char **av)
 	printf("%s\n", line);
 	free(line);
 	close(fd);
+	ac = 0;
 	return (0);
 }
 

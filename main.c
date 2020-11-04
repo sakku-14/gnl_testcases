@@ -23,6 +23,7 @@ int main(int ac, char **av)
 
 
 //stdin ver
+/*
 int main(int ac, char **av)
 {
 	int fd = 0;
@@ -32,3 +33,4 @@ int main(int ac, char **av)
 	printf("%s\n", line);
 	return (0);
 }
+*/
